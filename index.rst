@@ -30,7 +30,7 @@ Installation
 6. Once installed, make sure the checkbox next to ShotEngine is enabled.
 
 
-Shot Manager
+ShotEngine: Shot Manager
 ===============
 
 .. image:: Header.JPG
@@ -41,12 +41,15 @@ The main interface is found in the Properties panel under the Output tab.
 * **DEFAULT/LIST** , Select the shot type. DEFAULT is for general editing. DEFAULT properties will be inherited by Shots if left empty or not overriden.
 
 
-Creating a Shot
+ShotEngine: Scene Manager
 ===============
 
-.. image:: ModesPopup.JPG
+.. image:: Header.JPG
 
-When making your first shot, you'll be asked for optional modes. These are preset settings for various workflows.
+The main interface is found in the Properties panel under the Output tab.
+
+* **Enable** , The first tick box will toggle the affect of Shot Manager on your scene. Un-tick if you need to turn off its influence, particularly if rendering alternative frame ranges or View Layers.
+* **DEFAULT/LIST** , Select the shot type. DEFAULT is for general editing. DEFAULT properties will be inherited by Shots if left empty or not overriden.
 
 
 Examples
