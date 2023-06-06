@@ -11,7 +11,6 @@ Introducing ShotEngine, the ultimate tool designed to revolutionize the way you 
 
 Take charge of your creative vision and bring your scenes to life like never before. Discover the efficiency, organization, and precision you've always desired with ShotEngine - the indispensable companion for all your shot-related endeavors.
 
-
 Getting Started
 ===============
 This guide will help you get up and running with this powerful tool for organizing and managing your scene shots in Blender. Whether you're working on an animation, film, or any other project that involves shots, ShotEngine will streamline your workflow and bring efficiency to your creative process.
@@ -34,8 +33,6 @@ User Interface
 The ShotEngine panel is usually located in the sidebar (press N to toggle the sidebar if it's not visible).
 
 The interface is divided into two main sections: "ShotEngine: Shot Manager" and "ShotEngine: Scene Manager", providing easy navigation and organization. Users can collapse either section when not in use. Below are detailed descriptions to provide a clearer understanding of the interface and functions of each element.
-
-
 
 ShotEngine: Shot Manager
 ===============
@@ -74,8 +71,6 @@ Camera Properties Interface
 23. **Jump to the Start of the Active Shot**
 24. **Jump to the End of the Active Shot**
 
-
-
 ShotEngine: Scene Manager
 ===============
 
@@ -86,8 +81,7 @@ The main interface is found in the Properties panel under the Output tab.
 * **Enable** , The first tick box will toggle the affect of Shot Manager on your scene. Un-tick if you need to turn off its influence, particularly if rendering alternative frame ranges or View Layers.
 * **DEFAULT/LIST** , Select the shot type. DEFAULT is for general editing. DEFAULT properties will be inherited by Shots if left empty or not overriden.
 
-
-Examples
+Examples/Use cases
 ===============
 Here are a few examples of how you might use the Tiddles Shot Manager addon in your projects:
 
