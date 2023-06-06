@@ -1,20 +1,25 @@
 =============
-Shot Manager
+Shot Engine Documentation
 =============
-https://twitter.com/OTrealms
+https://www.youtube.com/@RusselStudiosOfficial
 
-:Version: 0.7.7
+:Version: 1.0.0
 
 .. contents::
 
 Getting Started
 ---------------
-Shot Manager is an add-on for Blender 2.90 and above. Created as a  tool by myself Pablo Tochez A. [contact@pablotochez.com]  in order to assist in the organization of complex files containing multiple shots, view layers and cameras. I am an artist with some coding knowledge for making time saving tools and digital artworks.
+Shot Engine is an add-on for Blender 2.90 and above. Created as a  tool by myself Pablo Tochez A. [contact@pablotochez.com]  in order to assist in the organization of complex files containing multiple shots, view layers and cameras. I am an artist with some coding knowledge for making time saving tools and digital artworks.
 Shot Manager should be installed like any .zip add-on [Blender 2.8 Install Add-ons 00:38-https://youtu.be/14G_YIVdBd0?t=38]. **Make sure you remove any previously installed versions first and restart Blender.** You will not lose shot data un-installing the addon/
 This documentation is intended for the paid version available on Blender Market.
 
 Version 0.7 and above do not support versions of Blender below 2.90.
 Material overrides are now legacy and will only work if legacy mode is enabled.
+
+
+Requirements
+===============
+Blender 2.80+
 
 
 Main Panel
