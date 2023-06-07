@@ -36,18 +36,19 @@ Features
 4. **Rename** shots
 5. Set object to **follow**
 6. Set object to **track to**
-7. Change the **speed/duration** of shots
-8. **Crop** the camera animation of shot
-9. **Reverse** camera animation of shot
-10. **Offset** camera animation of shot
-11. **Re-order** shot sequence
-12. **Preview all** shots
-13. **Preview individual** shots
-14. **Batch-Render** all shots of a scene
-15. **Render individual** shots
-16. **Delete** shots
-17. **Auto-Generate shots** from scene cameras
-18. **Hide/Unhide** scene shots
+7. **Blend** between multiple shots to create smooth and seamless transitions
+8. Change the **speed/duration** of shots
+9. **Crop** the camera animation of shot
+10. **Reverse** camera animation of shot
+11. **Offset** camera animation of shot
+12. **Re-order** shot sequence
+13. **Preview all** shots
+14. **Preview individual** shots
+15. **Batch-Render** all shots of a scene
+16. **Render individual** shots
+17. **Delete** shots
+18. **Auto-Generate shots** from scene cameras
+19. **Hide/Unhide** scene shots
 
 User Interface
 ---------------
