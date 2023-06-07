@@ -28,6 +28,27 @@ Installation
 5. Select the file and click "Install Add-on" to install it.
 6. Once installed, make sure the checkbox next to ShotEngine is enabled.
 
+Features
+---------------
+1. Create shots
+2. Add **custom cameras** to shots
+3. **Duplicate** shots
+4. **Rename** shots
+5. Set object to **follow**
+6. Set object to **track to**
+7. Change the **speed/duration** of shots
+8. **Crop** the camera animation of shot
+9. **Reverse** camera animation of shot
+10. **Offset** camera animation of shot
+11. **Re-order** shot sequence
+12. **Preview all** shots
+13. **Preview individual** shots
+14. **Batch-Render** all shots of a scene
+15. **Render individual** shots
+16. **Delete** shots
+17. **Auto-Generate shots** from scene cameras
+18. **Hide/Unhide** scene shots
+
 User Interface
 ---------------
 The ShotEngine panel is usually located in the sidebar (press N to toggle the sidebar if it's not visible).
@@ -76,14 +97,57 @@ ShotEngine: Scene Manager
 
 .. image:: SE-SceneManagerUI.jpg
 
-The main interface is found in the Properties panel under the Output tab.
+Main Interface
+--------------
 
-* **Enable** , The first tick box will toggle the affect of Shot Manager on your scene. Un-tick if you need to turn off its influence, particularly if rendering alternative frame ranges or View Layers.
-* **DEFAULT/LIST** , Select the shot type. DEFAULT is for general editing. DEFAULT properties will be inherited by Shots if left empty or not overriden.
+1. **ShotEngine Documentation:** Access the online documentation for the ShotEngine Addon.
+2. **Update Shots:** Refresh and update the scene shots.
+3. **Switch to Scene:** Switch to the selected scene.
+4. **Scene Name/Title:** Displays the name/title of the scene(s).
+5. **Number of Shots in the Scene:** Indicates the total number of shots for each scene.
+6. **Total Duration of Shots in the Scene:** Displays the combined duration of all shots in the scene, measured in seconds.
+7. **View Shot List:** Access the list of shots within the scene.
+8. **Preview Shots:** Preview all shots within the scene.
+9. **Batch Render Shots:** Render all shots within the scene together in a batch process.
+
+When the **View Shot List** (7) is clicked, the interface below is shown.
+
+.. image:: SE-SceneShotsListUI.jpg
+
+Shots List
+----------
+
+1. **Back to the Main Interface:** Return to the main interface.
+2. **Number of Shots in the Scene:** Indicates the total number of shots within the scene.
+3. **Total Duration of Shots in the Scene:** Displays the combined duration of all shots in the scene, measured in seconds.
+4. **Preview Shots:** Preview all shots within the scene.
+5. **Batch Render Shots:** Render all shots within the scene together in a batch process.
+6. **Show/Hide Cameras:** Toggle the visibility of all shots in the 3D View.
+7. **Clear All Shots:** Remove all shots from the scene.
+8. **Select Shot:** Choose a shot and activate its associated camera.
+9. **Name/Title of the Shot:** Displays the name of the selected shot.
+10. **Edit Name/Title of the Shot**
+11. **Preview the Shot**
+12. **Render the Shot**
+13. **Move the Shot up the Sequence**
+14. **Move the Shot down the Sequence**
+15. **Total Duration of Shot:** Displays the total duration of the active shot in seconds (total frames divided by frames per second).
+16. **Delete the Shot:** Remove the shot from the scene.
+
+When the **Edit Name/Title of the Shot** (10) is clicked, the interface below is shown.
+
+.. image:: SE-RenameShotUI.jpg
+
+Rename Shot
+-----------
+
+1. **Back to the Shot List Interface:** Return to the Shot List interface.
+2. **Current Shot Name/Title:** Displays the name of the currently active shot.
+3. **New Shot Name Input:** Enter the new name for the shot.
 
 Examples/Use cases
 ===============
-Here are a few examples of how you might use the Tiddles Shot Manager addon in your projects:
+Here are a few examples of how you might use the ShotEngine addon in your projects:
 
 1. Create a set of cameras to use as reference images while modeling.
 2. Switch between different cameras to preview your scene from different angles.
