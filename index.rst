@@ -160,7 +160,6 @@ Here are a few examples of how you might use the ShotEngine addon in your projec
 8. Duplicate shots to create variations of a shot without having to recreate the camera animation.
 9. Auto-generate shots from cameras with animations to quickly create a set of shots from a complex camera animation.
 10. Preview and render all shots with a single click to see the complete animation and create the final rendered version.
-11. Delete shots without deleting the actual camera, allowing you to keep your scene clean and organized.
 
 I hope this updated documentation example is helpful as you create your shots. If you have any further questions or need more guidance, don't hesitate to ask me via email(russelstudios@gmail.com)
 
