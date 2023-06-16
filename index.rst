@@ -1,6 +1,6 @@
 =============
 ShotEngine: Your Ultimate Scene Shot Organizer and Manager
-=============
+==========================================================
 https://www.youtube.com/@RusselStudiosOfficial
 
 :Version: 1.0.0
@@ -16,11 +16,11 @@ Getting Started
 This guide will help you get up and running with this powerful tool for organizing and managing your scene shots in Blender. Whether you're working on an animation, film, or any other project that involves shots, ShotEngine will streamline your workflow and bring efficiency to your creative process.
 
 Requirements 
----------------
+------------
 Blender version 2.80+
 
 Installation
----------------
+------------
 1. Download the ShotEngine addon file.
 2. Launch Blender and go to Edit -> Preferences.
 3. In the Preferences window, navigate to the Add-ons tab.
@@ -29,7 +29,7 @@ Installation
 6. Once installed, make sure the checkbox next to ShotEngine is enabled.
 
 Features
----------------
+--------
 1. Create shots
 2. Add **custom cameras** to shots
 3. **Duplicate** shots
@@ -51,13 +51,13 @@ Features
 19. **Hide/Unhide** scene shots
 
 User Interface
----------------
+--------------
 The ShotEngine panel is usually located in the sidebar (press N to toggle the sidebar if it's not visible).
 
 The interface is divided into two main sections: "ShotEngine: Shot Manager" and "ShotEngine: Scene Manager", providing easy navigation and organization. Users can collapse either section when not in use. Below are detailed descriptions to provide a clearer understanding of the interface and functions of each element.
 
 ShotEngine: Shot Manager
-===============
+========================
 
 .. image:: SE-ShotManagerUI.jpg
 
@@ -94,7 +94,7 @@ Camera Properties Interface
 24. **Jump to the End of the Active Shot**
 
 ShotEngine: Scene Manager
-===============
+=========================
 
 .. image:: SE-SceneManagerUI.jpg
 
@@ -147,7 +147,7 @@ Rename Shot
 3. **New Shot Name Input:** Enter the new name for the shot.
 
 Examples/Use cases
-===============
+==================
 Here are a few examples of how you might use the ShotEngine addon in your projects:
 
 1. Create a set of cameras to use as reference images while modeling.
@@ -164,3 +164,9 @@ Here are a few examples of how you might use the ShotEngine addon in your projec
 I hope this updated documentation example is helpful as you create your shots. If you have any further questions or need more guidance, don't hesitate to ask me via email(russelstudios@gmail.com)
 
 
+Updates
+=======
+0.1.0 (16/6/23)
+    **UPDATE:**   Options to Crop, Offset and Reverse have been extended to all Shots with keyframes.
+    **FIXED:**   Shot "Start" and "End" keyframes are automatically set to starting and ending keyframes of the shot camera respectively.
+    **FIXED:**   Shot animation data not altered upon duplicate.
