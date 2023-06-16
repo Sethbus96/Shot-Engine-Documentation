@@ -3,7 +3,7 @@ ShotEngine: Your Ultimate Scene Shot Organizer and Manager
 ==========================================================
 https://www.youtube.com/@RusselStudiosOfficial
 
-:Version: 1.0.0
+:Version: 1.1.0
 
 .. contents::
 
@@ -167,8 +167,11 @@ I hope this updated documentation example is helpful as you create your shots. I
 Updates
 =======
 0.1.0 (16/6/23)
-  **UPDATE:**   Options to Crop, Offset and Reverse have been extended to all Shots with keyframes.
-  **FIXED:**   Shot "Start" and "End" keyframes are automatically set to starting and ending keyframes of the shot camera respectively.
-  **FIXED:**   Shot animation data not altered upon duplicate.
+
+ **UPDATE:**   Options to Crop, Offset and Reverse have been extended to all Shots with keyframes.
+ 
+ **FIXED:**   Shot "Start" and "End" keyframes are automatically set to starting and ending keyframes of the shot camera respectively.
+ 
+ **FIXED:**   Shot animation data not altered upon duplicate.
     
     
