@@ -170,3 +170,5 @@ Updates
     **UPDATE:**   Options to Crop, Offset and Reverse have been extended to all Shots with keyframes.
     **FIXED:**   Shot "Start" and "End" keyframes are automatically set to starting and ending keyframes of the shot camera respectively.
     **FIXED:**   Shot animation data not altered upon duplicate.
+    
+    
