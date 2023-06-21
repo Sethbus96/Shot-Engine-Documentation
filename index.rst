@@ -168,7 +168,7 @@ I hope this updated documentation example is helpful as you create your shots. I
 
 Updates
 =======
-0.1.0 (16/6/23)
+0.1.2 (16/6/23)
 
  **FIXED:**   Shot animation data not altered upon Auto-generate.
 
