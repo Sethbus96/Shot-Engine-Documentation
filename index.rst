@@ -5,7 +5,7 @@ https://www.youtube.com/@RusselStudiosOfficial
 
 Demo: https://www.youtube.com/watch?v=wp1ct0X8Tk0&t=339s
 
-:Version: 1.2.0
+:Version: 1.3.0
 
 .. contents::
 
@@ -168,6 +168,16 @@ I hope this updated documentation example is helpful as you create your shots. I
 
 Updates
 =======
+0.1.3 (22/6/23)
+
+ **NEW:**   Exposed the Focal Length of shot cameras for easy access.
+
+ **NEW:**   Camera Motion types added (Ease and Linear).
+
+ **UPDATE:**   Camera Look At had been improved. Camera can now be rotated while tracking an abject.
+
+ **FIXED:**   Shot duplication problems.
+
 0.1.2 (21/6/23)
 
  **FIXED:**   Shot animation data not altered upon Auto-generate.
