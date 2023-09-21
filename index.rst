@@ -168,13 +168,21 @@ I hope this updated documentation example is helpful as you create your shots. I
 
 Updates
 =======
+0.1.4 (21/9/23)
+
+ **NEW:**   CTRL+Click on Start/End (ShotManager UI > Timeline) to add Keyframe.
+
+ **UPDATE:**   Camera Follow had been improved. Camera can now be rotated around the follow object.
+
+ **FIXED:**   Animation data of non-Shot objects are not altered.
+
 0.1.3 (22/6/23)
 
  **NEW:**   Exposed the Focal Length of shot cameras for easy access.
 
  **NEW:**   Camera Motion types added (Ease and Linear).
 
- **UPDATE:**   Camera Look At had been improved. Camera can now be rotated while tracking an abject.
+ **UPDATE:**   Camera Look At had been improved. Camera can now be rotated while tracking an object.
 
  **FIXED:**   Shot duplication problems.
 
