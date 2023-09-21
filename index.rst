@@ -5,7 +5,7 @@ https://www.youtube.com/@RusselStudiosOfficial
 
 Demo: https://www.youtube.com/watch?v=wp1ct0X8Tk0&t=339s
 
-:Version: 1.3.0
+:Version: 1.4.0
 
 .. contents::
 
